@@ -16,3 +16,6 @@ Given the current social distancing regulations across the world, social media h
 There is no dataset readily available on the internet for detecting the depression. Even though this project comes under sentiment analysis and there are many datasets for the same, no dataset ensures that there is word **depression** in it. 
 
 This made us to gather and prepare our own dataset. For this we first turned to Tweepy. But to use this, we needed a Twitter Developer account to which we couldn't get access to. After researching about it, we found TWINT. Twint is a Twitter Intelligence Tool. You can use it as a command line tool too. There are various commands to scrape twitter data using TWINT. 
+
+
+*to be continued*
